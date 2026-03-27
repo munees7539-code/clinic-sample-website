@@ -51,10 +51,10 @@ Quick stats (Specialists, Wait-Time Policy)
 🚀 Deployment
 ---
 This project is deployed using Vercel.
-Steps:
+ Steps:
     1.Push code to GitHub
     2.Import repo in Vercel
     3.Select Framework: Other
     4.Deploy
 
-
+-----
