@@ -48,13 +48,4 @@ Quick stats (Specialists, Wait-Time Policy)
 --
 <img width="1869" height="867" alt="image" src="https://github.com/user-attachments/assets/c113fc30-5edf-4d50-9090-f9dd16ed98be" />
 
-🚀 Deployment
----
-This project is deployed using Vercel.
- Steps:
-    1.Push code to GitHub
-    2.Import repo in Vercel
-    3.Select Framework: Other
-    4.Deploy
 
------
